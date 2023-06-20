@@ -16,4 +16,4 @@ Step five - npm start - backend/frontend
 
 
 
-And that's about it. Thank you for your time. 
+That's about it. Thank you for your time. 
