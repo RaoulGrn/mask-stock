@@ -1,5 +1,5 @@
 # mask-stock
-A web application built with React and Express (node.js) in which a hospitals' employees can login to their account and order new amount of masks.
+Web application built with React and Express (node.js) in which a hospitals' employees can login to their account and order new amount of masks.
 
 
 HOW TO RUN:
