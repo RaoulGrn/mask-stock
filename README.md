@@ -2,7 +2,7 @@
 Web application built with React and Express (node.js) in which a hospitals' employees can login to their account and order new amount of masks.
 
 
-HOW TO RUN:
+# HOW TO RUN:
 
 Step one - Open terminal - npm install both in "cd frontend" and in "cd backend".
 
