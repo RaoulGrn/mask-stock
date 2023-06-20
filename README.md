@@ -8,7 +8,7 @@ Step one - Open terminal - npm install both in "cd frontend" and in "cd backend"
 
 Step three - create .env file with PORT, MONGO_URI, SECRET(random string) 
 
-Step two - Make sure Mongo connection string is valid.
+Step two - Make sure you have a MongoDB connection running and that the string is valid.
 
 Step four - Manually add the json files to the empty but created collections in your database.
 
