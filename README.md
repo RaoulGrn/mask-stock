@@ -6,13 +6,13 @@ Web application built with React and Express (node.js) in which a hospitals' emp
 
 Step one - Open terminal - npm install both in "cd frontend" and in "cd backend".
 
-Step three - create .env file with PORT, MONGO_URI, SECRET(random string) 
-
 Step two - Make sure you have a MongoDB connection running and that the string is valid.
+
+Step three - create .env file with PORT, MONGO_URI, SECRET(random string). 
 
 Step four - Manually add the json files to the empty but created collections in your database.
 
-Step five - npm start - backend/frontend
+Step five - npm start - backend/frontend.
 
 
 
